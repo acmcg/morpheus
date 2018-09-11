@@ -19,3 +19,4 @@ resource "oneview_server_profile" "db" {
   template = "Automation Template"
   power_state = "on"
 }
+
